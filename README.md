@@ -2,4 +2,4 @@
 ##CS6
 
 This is a readme for the cs6 class!
-This was added via a pull request!
+This really was added via a pull request!
